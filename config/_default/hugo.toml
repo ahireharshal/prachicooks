@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://prachicooks.netlify.app/hargo/site/"
+baseURL = "https://prachicooks.netlify.app/"
 languageCode = "en"
 title = "Prachi Cooks | Simple. Soulful. Homemade."
 theme = "hargo-hugo"

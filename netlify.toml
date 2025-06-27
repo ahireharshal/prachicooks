@@ -3,6 +3,7 @@ GO_VERSION = "1.24.4"
 HUGO_VERSION = "0.147.9"
 NODE_VERSION = "22.13.0"
 TZ = "America/Los_Angeles"
+HUGO_BASEURL = "/"
 
 [build]
 publish = "public"
